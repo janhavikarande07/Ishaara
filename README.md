@@ -1,6 +1,6 @@
 # Ishaara
 
-![ishaara_logo](https://github.com/user-attachments/assets/cb8e6b1f-61c6-41ef-a015-2077c33d92b3)
+![ishaara_logo](https://github.com/user-attachments/assets/cb8e6b1f-61c6-41ef-a015-2077c33d92b3  =200x150)
 
 Project Overview
   This repository contains two folders:
