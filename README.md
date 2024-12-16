@@ -4,8 +4,8 @@
 
 This repository contains two folders:
 
-1. **Ishaara app**: The Flutter app for client-side operations.  
-2. **Ishaara server**: The Flask server backend for the model.
+1. **Ishaara App**: The Flutter app for client-side operations.  
+2. **Ishaara Server**: The Flask server backend for the model.
   
 
 # 🚀 Project Setup Guide  
