@@ -11,7 +11,6 @@ This repository contains two folders:
 # 🚀 Project Setup Guide  
 
 This guide explains the steps to set up the Flutter project and Flask Server and get the app running.
-
 ##
 
 ## 📝 Table of Contents  
