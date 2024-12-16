@@ -109,6 +109,7 @@ This guide explains the steps to set up the Flutter project and Flask Server and
 ## 🌟 Connecting Flutter to the Server  
 ### 1. Update values_.dart  
  <img src="https://github.com/user-attachments/assets/90fe109d-421c-4523-937a-d7e2930a5653" alt="ishaara_logo" height="300">  
+ 
 1. In the Flutter project, go to the lib folder.  
 
 2. Open the values_.dart file.  
